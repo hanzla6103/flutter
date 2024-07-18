@@ -1,0 +1,19 @@
+name: my_flutter_app
+description: A new Flutter project.
+
+# The following line prevents packages from being used
+# that don't explicitly declare support for your platform.
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information about the tooling see <https://dart.dev/tools>
+flutter:
+  uses-material-design: true
