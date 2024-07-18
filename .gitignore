@@ -1,0 +1,20 @@
+# Dart packages
+packages/
+
+# Build directory
+build/
+
+# iOS build products
+ios/Build
+
+# Android build products
+android/build
+android/captures
+android/app/build
+
+# IDE files
+.idea
+.vscode
+
+# Metadata
+.DS_Store
